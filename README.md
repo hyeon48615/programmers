@@ -13,3 +13,4 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 ### Java
 - [181949. 대소문자 바꿔서 출력하기](Java/프로그래머스/0/181949. 대소문자 바꿔서 출력하기) : `Wrapper 클래스`, `Character 메서드` _2025_03_06
+- [181943. 문자열 겹쳐쓰기](Java/프로그래머스/0/181943. 문자열 겹쳐쓰기) : `substring` _2025_03_07
